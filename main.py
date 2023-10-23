@@ -1,0 +1,3 @@
+import producer
+
+producer.main()
